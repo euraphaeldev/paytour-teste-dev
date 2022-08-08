@@ -1,8 +1,6 @@
-# FORMULÁRIO CRIADO PARA O TESTE DE DESENVOLVEDOR DA [Paytour](https://www.paytour.com.br/).
+# 🚀 FORMULÁRIO CRIADO PARA O TESTE DE DESENVOLVEDOR DA [Paytour](https://www.paytour.com.br/).
 
-#
-
-## O que eu precisei fazer nesse teste?
+## 🤔 O que eu precisei fazer nesse teste?
 
 ### Requisitos do teste:
 
@@ -22,12 +20,12 @@
 * Os dados devem ser armazenados em um banco de dados. Além das informações acima, o IP e a data e hora do envio devem ficar registrados
 * Um e-mail deve ser enviado com os dados do formulário
 
-# O que eu ultilizei para concluir o teste?
+# 😎 O que eu ultilizei para concluir o teste?
 
 * HTML
 * CSS PURO
 * Javascript (Vanilla e jQuery)
 * PHP ([PHPMailer](https://github.com/PHPMailer/PHPMailer) e [user_info(para pegar o IP)](https://github.com/Fortune-dot/user_info)).
 
-### Ainda vou ficar atualizando o código com o decorrer dos estudos e o tempo que tiver.
+### ⚠️ Ainda vou ficar atualizando o código com o decorrer dos estudos e o tempo que tiver.
 
