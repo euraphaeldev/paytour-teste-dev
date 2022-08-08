@@ -34,6 +34,7 @@ form.addEventListener('submit', e => {
         e.preventDefault();
     }
 
+    // validando o tamanho do arquivo.
     if (curriculo.files.length > 0) {
         for (const i = 0; i <= curriculo.files.length - 1; i++) {
             const size = curriculo.files.item(i).size;
@@ -50,7 +51,7 @@ form.addEventListener('submit', e => {
 
 });
 
-// validando o tamanho do arquivo.
+// escrevendo o tamanho do arquivo.
 $('#curriculo').on('change', function () {
     const fileName = this.files[0].name;
     const size = (this.files[0].size / 1024 / 1024).toFixed(2);
