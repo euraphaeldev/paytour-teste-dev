@@ -27,5 +27,5 @@
 * Javascript (Vanilla e jQuery)
 * PHP ([PHPMailer](https://github.com/PHPMailer/PHPMailer) e [user_info(para pegar o IP)](https://github.com/Fortune-dot/user_info)).
 
-### ⚠️ Ainda vou ficar atualizando o código com o decorrer dos estudos e o tempo que tiver.
+### ⚠️ Falta realizar os testes unitários. Estou providenciando. ⚠️
 
